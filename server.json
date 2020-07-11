@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Melecarrone",
+      "price": "9.99",
+      "description": "Melecarrone de melecarrão",
+      "id": 5,
+      "available": true
     }
   ]
 }
